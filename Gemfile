@@ -23,6 +23,7 @@ gem 'ancestry'
 
 # build out admin interface for adding and removing records in our application
 gem 'rails_admin'
+gem 'foundation-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
