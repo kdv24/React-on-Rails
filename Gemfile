@@ -20,10 +20,12 @@ gem 'jbuilder', '~> 2.0'
 
 # allows modeling trees in ruby on rails
 gem 'ancestry'
-
 # build out admin interface for adding and removing records in our application
 gem 'rails_admin'
 gem 'foundation-rails'
+#add react
+gem 'react-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
