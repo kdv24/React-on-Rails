@@ -2,7 +2,7 @@ var Comment = React.createClass({
   propTypes: {
     author: React.PropTypes.string, //shows what has to be passed in to be valid
     body: React.PropTypes.string,
-    rank: React.PropTypes.integer
+    rank: React.PropTypes.number
   },
 
   render: function() {
